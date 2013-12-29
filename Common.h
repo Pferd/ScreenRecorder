@@ -1,0 +1,11 @@
+#include <iostream>
+
+enum SCR_REC_STATE{
+
+  SCR_STATE_INIT= 100,
+  SCR_STATE_START,
+  SCR_STATE_RECORD,
+  SCR_STATE_PLAY,
+  SCR_STATE_STOP
+
+};
