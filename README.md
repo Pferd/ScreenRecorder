@@ -1,4 +1,4 @@
 ScreenRecorder
 ==============
 
-This application records your screen.
+This application can be used to record screen in Linux Environment.
